@@ -1,0 +1,92 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Eaac2m1p1_tb
+Z0 w1596697255
+Z1 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/ASUS/Desktop/Coursera HDL course/Week_1_Assignment_1
+Z6 8C:/Users/ASUS/Desktop/Coursera HDL course/Week_1_Assignment_1/AAC2M1P1_tb.vhdp
+Z7 FC:/Users/ASUS/Desktop/Coursera HDL course/Week_1_Assignment_1/AAC2M1P1_tb.vhdp
+l0
+L52
+V?G6LfKUn]nf7n0cC;9^L13
+!s100 o_c;zO@o9]4[Q2AMzCkSz0
+Z8 OP;C;10.4a;61
+32
+Z9 !s110 1596699096
+!i10b 1
+Z10 !s108 1596699096.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ASUS/Desktop/Coursera HDL course/Week_1_Assignment_1/AAC2M1P1_tb.vhdp|
+Z12 !s107 C:/Users/ASUS/Desktop/Coursera HDL course/Week_1_Assignment_1/AAC2M1P1_tb.vhdp|
+!i113 1
+Z13 o-work work -2002 -explicit -O0
+Z14 tExplicit 1
+Abehavioral
+R1
+R2
+R3
+R4
+Z15 DEx4 work 11 aac2m1p1_tb 0 22 ?G6LfKUn]nf7n0cC;9^L13
+l135
+L61
+Z16 V1H:`jQWW_=GE6zbFUZ]3V3
+Z17 !s100 CLJOJMjV1njnJ`BO3l@<d0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ecomparator2
+Z18 w1596697927
+R3
+R4
+R5
+Z19 8C:/Users/ASUS/Desktop/Coursera HDL course/Week_1_Assignment_1/AAC2M1P1.vhd
+Z20 FC:/Users/ASUS/Desktop/Coursera HDL course/Week_1_Assignment_1/AAC2M1P1.vhd
+l0
+L40
+VcAU[Bo=Gi:4lQjaKDO7421
+!s100 jbXW<kjD[_>^?bUXljbbi2
+R8
+32
+R9
+!i10b 1
+R10
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ASUS/Desktop/Coursera HDL course/Week_1_Assignment_1/AAC2M1P1.vhd|
+Z22 !s107 C:/Users/ASUS/Desktop/Coursera HDL course/Week_1_Assignment_1/AAC2M1P1.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R3
+R4
+DEx4 work 11 comparator2 0 22 cAU[Bo=Gi:4lQjaKDO7421
+l46
+L45
+V4TQjTmHhfiEBRi6P<ZzUa2
+!s100 BKmIX8KNPHG45ejn6W2fK3
+R8
+32
+R9
+!i10b 1
+R10
+R21
+R22
+!i113 1
+R13
+R14
