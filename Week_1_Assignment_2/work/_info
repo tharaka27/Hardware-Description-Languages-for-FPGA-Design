@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/ASUS/Desktop/Coursera HDL course/Week_1_Assignment_1
+Eaac2m1p3_tb
+Z0 w1596693326
+Z1 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+Z2 DPx4 ieee 20 numeric_bit_unsigned 0 22 Uo=_FXbo@j4IMIikZfQ=:3
+Z3 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z6 dC:/Users/ASUS/Desktop/Coursera HDL course/Week_1_Assignment_2
+Z7 8C:/Users/ASUS/Desktop/Coursera HDL course/Week_1_Assignment_2/AAC2M1P3_tb.vhdp
+Z8 FC:/Users/ASUS/Desktop/Coursera HDL course/Week_1_Assignment_2/AAC2M1P3_tb.vhdp
+l0
+L54
+Va9LPb:DCM3XYK5GD1z_^j3
+!s100 CVRz_NC>c:Df^6PL7[bX21
+Z9 OP;C;10.4a;61
+32
+Z10 !s110 1597137021
+!i10b 1
+Z11 !s108 1597137021.000000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ASUS/Desktop/Coursera HDL course/Week_1_Assignment_2/AAC2M1P3_tb.vhdp|
+Z13 !s107 C:/Users/ASUS/Desktop/Coursera HDL course/Week_1_Assignment_2/AAC2M1P3_tb.vhdp|
+!i113 1
+Z14 o-work work -2002 -explicit -O0
+Z15 tExplicit 1
+Abehavioral
+R1
+R2
+R3
+R4
+R5
+Z16 DEx4 work 11 aac2m1p3_tb 0 22 a9LPb:DCM3XYK5GD1z_^j3
+l136
+L62
+Z17 V;;08GV`_hbl@^>jlEDHQa3
+Z18 !s100 QO]TXH6QU7Tb=IJEA?5Y?1
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Efind_errors
+Z19 w1597136714
+R4
+R5
+R6
+Z20 8C:/Users/ASUS/Desktop/Coursera HDL course/Week_1_Assignment_2/AAC2M1P3.vhd
+Z21 FC:/Users/ASUS/Desktop/Coursera HDL course/Week_1_Assignment_2/AAC2M1P3.vhd
+l0
+L45
+V>1V90cTloah=ORi]M55J43
+!s100 [c`TJNTY7DNo?FA@76G2E2
+R9
+32
+R10
+!i10b 1
+R11
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ASUS/Desktop/Coursera HDL course/Week_1_Assignment_2/AAC2M1P3.vhd|
+Z23 !s107 C:/Users/ASUS/Desktop/Coursera HDL course/Week_1_Assignment_2/AAC2M1P3.vhd|
+!i113 1
+R14
+R15
+Anot_good
+R4
+R5
+DEx4 work 11 find_errors 0 22 >1V90cTloah=ORi]M55J43
+l52
+L51
+VH<NOk0eoZ1Nz?H`j[MW682
+!s100 QM[g6S7IadT7Ozo0KBYcF2
+R9
+32
+R10
+!i10b 1
+R11
+R22
+R23
+!i113 1
+R14
+R15
