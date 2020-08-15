@@ -1,0 +1,26 @@
+{C:/Users/ASUS/Desktop/Coursera HDL course/Week_2_Assignment_1/AAC2M2P1_tb.vhdp} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/ASUS/Desktop/Coursera HDL course/Week_2_Assignment_1/AAC2M2P1_tb.vhdp}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package NUMERIC_BIT_UNSIGNED
+-- Loading package std_logic_textio
+-- Compiling entity AAC2M2P1_tb
+-- Compiling architecture behavioral of AAC2M2P1_tb
+
+} {} {}} {C:/Users/ASUS/Desktop/Coursera HDL course/Week_2_Assignment_1/tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/ASUS/Desktop/Coursera HDL course/Week_2_Assignment_1/tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tb
+-- Compiling architecture behavior of tb
+** Warning: C:/Users/ASUS/Desktop/Coursera HDL course/Week_2_Assignment_1/tb.vhd(54): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/ASUS/Desktop/Coursera HDL course/Week_2_Assignment_1/tb.vhd(62): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/ASUS/Desktop/Coursera HDL course/Week_2_Assignment_1/tb.vhd(68): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/ASUS/Desktop/Coursera HDL course/Week_2_Assignment_1/tb.vhd(71): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/ASUS/Desktop/Coursera HDL course/Week_2_Assignment_1/tb.vhd(81): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}}
