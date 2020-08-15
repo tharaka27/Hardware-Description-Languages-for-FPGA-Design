@@ -1,0 +1,68 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+use work.all;
+
+
+entity MyRAM_tb is
+-- No ports since this is a testbench
+end entity;
+
+architecture behavioral of MyRAM_tb is
+	signal address_tb	: STD_LOGIC_VECTOR (6 DOWNTO 0);
+	signal clock_tb		: STD_LOGIC ;
+	signal data_tb		: STD_LOGIC_VECTOR (31 DOWNTO 0);
+	signal wren_tb		: STD_LOGIC ;
+	signal q_tb		: STD_LOGIC_VECTOR (31 DOWNTO 0);
+
+component RAM128_32 PORT
+	(
+		address	: IN STD_LOGIC_VECTOR (6 DOWNTO 0);
+		clock		: IN STD_LOGIC ;
+		data		: IN STD_LOGIC_VECTOR (31 DOWNTO 0);
+		wren		: IN STD_LOGIC ;
+		q		: OUT STD_LOGIC_VECTOR (31 DOWNTO 0)
+	);
+END component RAM128_32;
+
+
+begin
+DUT : RAM128_32 PORT MAP (
+		address	 => address_tb,
+		clock	 => clock_tb,
+		data	 => data_tb,
+		wren	 => wren_tb,
+		q	 => q_tb
+	);
+
+-- Setiing up a clock for the operation
+clk_operation: process
+begin
+clock_tb <= '1';
+wait for 10ns;
+clock_tb <= '0';
+wait for 10ns;
+end process clk_operation;
+
+-- Writing few data elements to the RAM
+writing_operation: process
+begin
+wait for 150ns;
+wren_tb <= '1';
+data_tb <= x"000000A0";
+address_tb <= "0000000";
+wait for 50ns;
+wren_tb <= '0';
+wait;
+address_tb <= "0000000";
+end process writing_operation;
+
+
+-- Reading few data elements to the RAM
+--reading_operation: process
+--begin
+--wait for 400ns;
+--address_tb <= "0000000";
+--wait;
+--end process reading_operation;
+
+end architecture behavioral;
